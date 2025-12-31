@@ -1,0 +1,81 @@
+[
+  {
+    "id": "glove-mizuno-01",
+    "name": "ミズノ 軟式用グローブ（内野手向け）",
+    "brand": "MIZUNO",
+    "category": "グローブ",
+    "price": 19800,
+    "image": "images/gloves/zett-glove.jpg",
+    "summary": "扱いやすい内野手向け。型付けもしやすい定番モデル。",
+    "features": ["内野手向け", "軟式用", "耐久性重視"],
+    "buyUrl": "https://www.amazon.co.jp/"
+  },
+  {
+    "id": "bat-ss-01",
+    "name": "一般軟式バット（軽量・ミドルバランス）",
+    "brand": "SSK",
+    "category": "バット",
+    "price": 15900,
+    "image": "/images/bats/bat-rubber-01.jpg",
+    "summary": "振り抜きやすい軽量モデル。ミドルバランスで扱いやすい。",
+    "features": ["軽量", "ミドルバランス", "初心者〜中級者"],
+    "buyUrl": "https://www.amazon.co.jp/"
+  }
+  ,
+{
+  "id": "shoes-asics-01",
+  "name": "スパイク（軽量・グリップ重視）",
+  "brand": "ASICS",
+  "category": "スパイク",
+  "price": 13200,
+  "image": "/images/spikes/asics-spike.jpg",
+  "summary": "土でも芝でも安定。グリップと足入れの良さが特徴。",
+  "features": ["軽量", "グリップ", "安定性"],
+  "buyUrl": "https://www.amazon.co.jp/"
+},
+{
+  "id": "uniform-mizuno-01",
+  "name": "練習用ユニフォーム（吸汗速乾）",
+  "brand": "MIZUNO",
+  "category": "ユニフォーム",
+  "price": 4980,
+  "image": "/images/uniforms/mizuno-uniform.jpg",
+  "summary": "汗をかいても乾きやすい練習用。毎日の部活に。",
+  "features": ["吸汗速乾", "練習用", "動きやすい"],
+  "buyUrl": "https://www.amazon.co.jp/"
+},
+{
+  "id": "cap-newera-01",
+  "name": "キャップ（シンプルデザイン）",
+  "brand": "New Era",
+  "category": "キャップ",
+  "price": 4200,
+  "image": "/images/caps/cap-newera-01.jpg",
+  "summary": "普段使いもしやすい定番キャップ。",
+  "features": ["定番", "シンプル", "普段使いOK"],
+  "buyUrl": "https://www.amazon.co.jp/"
+},
+{
+  "id": "bag-zett-01",
+  "name": "用具バッグ（バット収納可）",
+  "brand": "ZETT",
+  "category": "バッグ",
+  "price": 7800,
+  "image": "/images/bags/bag-zett-01.jpg",
+  "summary": "バットやスパイクもまとめて持ち運べる容量。",
+  "features": ["大容量", "バット収納", "持ち運び"],
+  "buyUrl": "https://www.amazon.co.jp/"
+},
+{
+  "id": "protector-evoshield-01",
+  "name": "エルボーガード（衝撃吸収）",
+  "brand": "Evoshield",
+  "category": "プロテクター",
+  "price": 9900,
+  "image": "/images/protectors/elbow-guard-01.jpg",
+  "summary": "死球対策に。フィット感と衝撃吸収を両立。",
+  "features": ["衝撃吸収", "フィット", "死球対策"],
+  "buyUrl": "https://www.amazon.co.jp/"
+}
+
+]
