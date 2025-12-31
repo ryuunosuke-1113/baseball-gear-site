@@ -31,7 +31,7 @@ cat > README.md <<'MD'
 
 ## Demo
 - ローカル起動：`npm run dev`
-- （公開URLができたらここに貼る）
+- 公開URL：https://baseball-gear-site.vercel.app/
 
 ## Features
 - 商品一覧（カード表示）
